@@ -8,4 +8,4 @@
 
 - :round_pushpin: Lisbon - Portugal.
 - 🎓 Systems Analysis and Development.
-- :books: Salesforce, .Net, Node.JS, JavaScript.
+- 💻 Salesforce, .Net, Node.js, JavaScript and more.
