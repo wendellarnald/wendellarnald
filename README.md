@@ -7,5 +7,5 @@
  I am software development, passionate about learning and creating applications that improve people's day-to-day lives. 
 
 - :round_pushpin: Lisboa - Portugal.
-- 🎓: Systems Analysis and Development.
+- 🎓 Systems Analysis and Development.
 - :books: Salesforce, .Net, Node.JS, JavaScript.
