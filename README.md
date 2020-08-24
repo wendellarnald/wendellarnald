@@ -13,6 +13,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wendellarnald_/)](https://www.instagram.com/wendellarnald_/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendellarnald&layout=compact)](https://github.com/wendellarnald/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wendellarnald&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendellarnald&layout=compact)](https://github.com/wendellarnald)
