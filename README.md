@@ -4,7 +4,8 @@
 
 - :round_pushpin: Lisbon - Portugal.
 - 🎓 Systems Analysis and Development.
-- 💻 Salesforce, .Net, Node.js, JavaScript and more.
+- 👨🏻‍💻 Studying Flutter
+- 💻 Salesforce, .Net, JavaScript and more.
 
 #### Follow me on my social networks:
 
