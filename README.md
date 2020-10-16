@@ -13,5 +13,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendell-arnald-ribeiro/)](https://www.linkedin.com/in/wendell-arnald-ribeiro/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wendellarnald_/)](https://www.instagram.com/wendellarnald_/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendellarnald&layout=compact)](https://github.com/wendellarnald)
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellarnald&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=wendellarnald&theme=dark"/></td>
+    </tr>   
+  </table>
+</center> 
