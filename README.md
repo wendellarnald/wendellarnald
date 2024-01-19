@@ -2,9 +2,9 @@
 
  I'm a software development, passionate about learning and creating applications that improve people's day-to-day lives. 
 
-- :round_pushpin: Lisbon - Portugal.
+- :round_pushpin: Portugal.
 - 🎓 Systems Analysis and Development.
-- 💻 Salesforce, .Net, JavaScript and more.
+- 💻 Salesforce, JavaScript and more.
 
 #### Follow me on my social networks:
 
