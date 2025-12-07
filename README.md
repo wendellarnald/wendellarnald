@@ -10,11 +10,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendell-arnald-ribeiro/)](https://www.linkedin.com/in/wendell-arnald-ribeiro/)
 
-<center>
-  <table>
-    <tr>
-        <td><img width="320px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellarnald&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="380px" align="center" src="https://github-readme-stats.vercel.app/api?username=wendellarnald&theme=dark&show_icons=true&count_private=true"/></td>
-    </tr>   
-  </table>
-</center> 
+
